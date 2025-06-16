@@ -1,2 +1,6 @@
 # JetBrains IDEs (IntelliJ, PyCharm, WebStorm, etc.)
 .idea/
+
+
+out
+lib
